@@ -1,0 +1,1 @@
+function login() { return "User logged in"; }
